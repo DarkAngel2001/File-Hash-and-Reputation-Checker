@@ -1,0 +1,2 @@
+This is a safe sample text file used for testing the File Hash and Reputation Checker.
+Hello, World!

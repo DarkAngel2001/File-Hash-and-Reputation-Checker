@@ -1,0 +1,2 @@
+# VirusTotal API Key (or other threat intelligence provider)
+VT_API_KEY=your_actual_virustotal_api_key_here
